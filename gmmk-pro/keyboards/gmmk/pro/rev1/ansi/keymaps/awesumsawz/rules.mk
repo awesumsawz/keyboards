@@ -1,0 +1,8 @@
+ENCODER_MAP_ENABLE = yes
+RGB_MATRIX_ENABLE = yes  # Enable RGB matrix
+BACKLIGHT_ENABLE = no    # Disable backlight to avoid conflicts
+BACKLIGHT_BREATHING_ENABLE = no
+BACKLIGHT_LEVELS = 0
+
+RGB_MATRIX_LED_COUNT = 12
+RGBLIGHT_ENABLE = no
